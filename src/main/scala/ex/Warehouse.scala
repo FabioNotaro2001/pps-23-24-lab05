@@ -1,3 +1,4 @@
+// Esercizio svolto singolarmente.
 package ex
 
 import util.Optionals.Optional
