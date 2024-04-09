@@ -1,3 +1,4 @@
+// Esercizio svolto da solo.
 package ex
 
 import scala.annotation.targetName
